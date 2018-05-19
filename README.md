@@ -8,6 +8,10 @@
 - `react-native-permissions` -> cross platform permission request library
 - `react-native-vector-icons` -> icons library
 
+## Can be used
+
+- `react-native-router-flux` or `react-navigation` for routing in app (*not included*)
+
 ## Steps
 
 ### Install
