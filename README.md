@@ -1,4 +1,4 @@
-# React Native Boileplate
+# React Native Boilerplate
 
 ## Packages included and configured
 - `eslint` -> follows airbnb styling guide
