@@ -18,7 +18,7 @@
 
 - run `react-native init <project name> --package=<package identifier>` in your directory
 - let react native install and setup the code
-- delete `/*` files & delete `src/*` folder in your generated project
+- delete `package.json`, `App.js` files & delete `src/*` folder in your generated project
 - copy all the files from repo folder (`/*` & `/src/*`) to your project
 - change `name` in package.json file to your own
 - run `npm install` or `yarn install` to install dependencies
